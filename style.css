@@ -40,7 +40,9 @@ img {
   width: 35%;
 }
 
-
+.bio:hover {
+  background-color: rgba(0, 139, 139, 0.57);
+}
 
 .bio {
   background-color: #008B8B;
@@ -100,29 +102,57 @@ h6 {
 #bio-text {
   margin: 0% 0% 2% 0%;
 }
+
+.protrait:hover {
+  background-color: rgba(169, 169, 169, 0.64);
+}
 .protrait {
   background-color: #A9A9A9;
+}
+
+.mirco:hover {
+  background-color: rgba(61, 109, 109, 0.81);
 }
 
 .mirco {
   background-color: #2F4F4F;
 }
 
+.landscapes:hover {
+  background-color: rgba(85, 107, 47, 0.7);
+}
+
 .landscapes {
   background-color:  #556B2F;
 }
 
+.weddings:hover {
+  background-color: rgba(128, 128, 0, 0.6);
+}
 .weddings {
   background-color: #808000;
+}
+
+.adventure:hover {
+  background-color: rgba(0, 139, 139, 0.57);
+
 }
 
 .adventure {
   background-color: #008B8B;
 }
 
+.media:hover {
+  background-color: rgba(169, 169, 169, 0.64);
+}
+
 .media {
   background-color: #A9A9A9;
 }
+
+.rates:hover {
+   background-color: rgba(61, 109, 109, 0.81);
+ }
 
 .rates {
   background-color: #2F4F4F;
