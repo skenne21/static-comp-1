@@ -138,10 +138,24 @@ h6 {
 }
 
 .three-buttons {
-  border-radius: 50%;
-  width: 3vh;
-  background-color: #D3D3D3;
+    text-align: end;
+    margin: 2%;
+  }
+
+#button-one {
+  color: #FAEBD7;
 }
+
+#button-two {
+  color: #FAEBD7;
+
+}
+
+#button-three {
+  color:#F08080;
+}
+
+
 
 .less-then-arrow {
   margin: 22% -4% -68% 7%;
@@ -184,7 +198,8 @@ h6 {
   }
 
   .contact-btn, 
-  .report-card {
+  .report-card,
+  .three-buttons {
     display: none;
   }
 
@@ -231,10 +246,9 @@ h6 {
   }
 
   .three-buttons {
-    margin: 3% 0% 0% 86%;
-    width: 5vh;
+    text-align: end;
   }
-
+  
   .greater-then-arrow {
     width: 5vh;
     margin: 0% 0% 0% 75%;
@@ -246,7 +260,8 @@ h6 {
   }
 
   .contact-btn, 
-  .report-card {
+  .report-card,
+  .three-buttons {
     display: none;
   }
 
